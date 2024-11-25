@@ -1,0 +1,124 @@
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color:white
+}
+p{
+    text-align: left;
+    max-width: 300px;
+    overflow: show;
+    text-overflow: ellipsis;
+    font-size: 15px;
+}
+h2{
+    text-align: left;
+    font-family:'constantia', Courier, monospace;
+}
+.h2{
+    margin-top: -115px;
+    text-align: center;
+    font-family:'constantia', Courier, monospace; ;
+}
+.h3{
+    margin-top: -90px;
+    text-align: center;
+    font-family:'constantia', Courier, monospace; ;
+}
+.p1{
+    position: relative;
+    height: 200px;
+}
+.p{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.costume-mark{
+    background-color: pink;
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(255, 160, 176);
+    border-radius: 8px;
+    border-color:pink ;
+    box-shadow: 0 2px 5px rgba (0,0,0,0.1)
+}
+
+
+.costume-text{
+    font-family:'constantia', Courier, monospace;
+    background-color:pink
+}
+.imagem-container {
+    justify-content: left;
+    position:fixed;
+    top: 15;
+    left: 50;
+    width: 35%;
+    align-items: left;
+    height: 50vh;
+}
+img{
+    position: fixed;
+    top: 55%;
+    left: 0;
+    transform: translateY(-50%);
+    max-width: 15%;
+    height: auto;
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+figcaption{
+    color: white;
+    position: fixed;
+    top: 80%;
+    left: 0;
+    transform: translateY(-50%);
+    height: auto;
+    
+}
+.p2{
+    position: relative;
+    height: 200px;
+}
+.pe{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    max-width: 300px;
+    overflow: show;
+    text-overflow: ellipsis;
+    font-size: 15px;
+}
+.h4{
+    margin-top: -80px;
+    text-align: center;
+    font-family:'constantia', Courier, monospace; ;
+}
+.p3{
+    position: relative;
+    height: 600px;
+}
+.px{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    max-width: 300px;
+    overflow: show;
+    text-overflow: ellipsis;
+    font-size: 15px;
+}
